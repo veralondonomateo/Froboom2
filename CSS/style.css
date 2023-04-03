@@ -7,7 +7,7 @@ body {
 #titulo{
     color: orange;
     text-align: center;
-    border: 2px solid coral;
+    border: 2px solid transparent;
     margin: 0 auto;
     font-family: Arial, Helvetica, sans-serif;
     font-size: 70px;
@@ -15,7 +15,27 @@ body {
 .subtitulo{
     color: green
     ;
-    border:2px solid greenyellow ;
+    border:2px solid transparent ;
     font-family: Georgia, 'Times New Roman', Times, serif;
     font-size: 60px;
+}
+#cabecera{
+    background-color: coral;
+    color: green;
+    margin: 0;
+    padding: o.5em
+    ;
+    border: 1px solid coral;
+    box-shadow: 0px 5px 30px 0px; 
+    font-weight: bold;
+    width: auto;
+    height: 70px;
+    font-size: 30px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+
+}
+#cabecera #linea{
+    font-size: 18px;
+    color: green;
+    font-family: Arial, Helvetica, sans-serif;
 }
