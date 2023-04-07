@@ -2,22 +2,37 @@ body {
     color: maroon;
     text-align: center;
     font-family: Arial, Helvetica, sans-serif;
+    width: 1000px;
+    height: 800px;
+    align-items: center;
 }
 
 #titulo{
-    color: orange;
-    text-align: center;
+    color: honeydew;
+   
+   
     border: 2px solid transparent;
     margin: 0 auto;
-    font-family: Arial, Helvetica, sans-serif;
-    font-size: 70px;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 50px;
+    border-top-width: 0px;
+    border-left-width: 0px;
+    border-right-width: 0px;
+    border-bottom-width: 0px;
+   
 }
 .subtitulo{
-    color: green
+    color: honeydew
     ;
     border:2px solid transparent ;
     font-family: Georgia, 'Times New Roman', Times, serif;
     font-size: 60px;
+    padding: 0px 0px 0px 0px;
+    border-top-width: 0px;
+    border-left-width: 0px;
+    border-right-width: 0px;
+    border-bottom-width: 0px;
+
 }
 #cabecera{
     background-color: coral;
@@ -26,16 +41,38 @@ body {
     padding: o.5em
     ;
     border: 1px solid coral;
-    box-shadow: 0px 5px 30px 0px; 
+    box-shadow: 0px 5px 12px 0px; 
     font-weight: bold;
     width: auto;
     height: 70px;
     font-size: 30px;
-    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-family:  Times, 'Times New Roman', serif;
 
 }
 #cabecera #linea{
     font-size: 18px;
     color: green;
     font-family: Arial, Helvetica, sans-serif;
+}
+#boton{
+    width: 100px;
+    height: 60px;
+    border-radius: 6px;
+    box-shadow: 0px 6px 12px 0px;
+    color: green;
+    align-items: center;
+    margin-bottom: 20px;
+
+    
+}
+#margen{
+    border: 2px solid green;
+    background-image: url("https://www.semana.com/resizer/S17TbvTZ3VrzDEU9yo44sHxrScY=/1280x720/smart/filters:format(jpg):quality(80)/cloudfront-us-east-1.images.arcpublishing.com/semana/FN6ZEUTYKFDPNCO7X5M2HSPX4E.jpg");
+    background-color: black;
+    
+}
+.derechos{
+    font-size: 9px;
+    color: whitesmoke;
+    font-family: 'Times New Roman', Times, serif;
 }
