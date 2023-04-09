@@ -47,7 +47,7 @@ body {
     height: 70px;
     font-size: 30px;
     font-family:  Times, 'Times New Roman', serif;
-
+   
 }
 #cabecera #linea{
     font-size: 18px;
@@ -75,4 +75,9 @@ body {
     font-size: 9px;
     color: whitesmoke;
     font-family: 'Times New Roman', Times, serif;
+} 
+.imagen{
+    width: 30px;
+    height: 30px;
+    margin: 5px;
 }
