@@ -1,5 +1,10 @@
-<<<<<<< HEAD
-# Proyecto-Prueba-1
-=======
-# Froboom2
->>>>>>> bef6f3cb7c19f7f3b9331a998da9821255f7e486
+# Calculadora JS
+
+<img src="https://i.ibb.co/QJBNx5v/Screen-Shot-2021-01-31-at-22-41-36.png" alt="drawing" width="400"/>
+
+**Calculadora desarrollada en este tutorial:** https://youtu.be/7YDagj3cVAk
+
+Tecnologías:
+- HTML
+- Css
+- JavaScript
