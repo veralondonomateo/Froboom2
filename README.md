@@ -1,8 +1,4 @@
-# Calculadora JS
-
-<img src="file:///Users/mateovera/Documents/proyecto1/clonacion/calculadora/index.html">
-
-
+# Calculadora Mateo
 
 Tecnologías:
 - HTML
